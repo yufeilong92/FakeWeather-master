@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">假装看天气</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="theme">主题</string>
+    <string name="done">确定</string>
+    <string name="cancel">取消</string>
+    <string name="bus_nearby_line">附近线路</string>
+    <string name="bus_nearby_station">附近站台</string>
+    <string name="bus_favorites">我的收藏</string>
+
+    <string-array name="share_type">
+        <item>纯文本</item>
+        <item>仿锤子便签</item>
+    </string-array>
+
+    <string-array name="date_type">
+        <item>星期</item>
+        <item>日期</item>
+    </string-array>
+
+    <string-array name="bus_refresh_item">
+        <item>5 秒</item>
+        <item>10 秒</item>
+        <item>30 秒</item>
+    </string-array>
+
+    <string-array name="bus_refresh_value">
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="color_name">
+        <item>青石色</item>
+        <item>山茱萸</item>
+        <item>绿篱</item>
+        <item>樱草黄</item>
+        <item>烈焰红</item>
+        <item>天堂岛</item>
+        <item>甘蓝</item>
+        <item>粉蓍草</item>
+        <item>尼亚加拉</item>
+    </string-array>
+
+    <string name="open_source">• 和风天气提供天气数据\n• 百度定位提供定位服务\n• 无线苏州提供公交数据\n• 『Gank』『煎蛋』『妹子图』提供妹纸数据\n• 丰富精彩的开源世界 https://github.com/li-yu/FakeWeather/blob/master/README.md
+    </string>
+
+    <string name="contact_me">• @呵呵小小鱼\n• me@liyuyu.cn
+    </string>
+
+    <string name="menu_action_refresh">刷新</string>
+    <string name="menu_action_share">分享</string>
+    <string name="menu_action_copy">复制URL</string>
+    <string name="menu_action_openwith">其他方式打开</string>
+
+    <string name="copied_to_clipboard">已复制到粘贴板</string>
+</resources>
